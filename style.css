@@ -93,3 +93,27 @@ a {
         opacity: 0;
     }
 }
+
+#random-text {
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+
+.ganhua {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-140%, -50%);
+    background-color: #FEFFFF;
+    width: 240px;
+    padding: 20px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#a {
+    text-align: end;
+    font-size: 16px;
+    font-style: italic;
+}
